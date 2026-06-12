@@ -108,7 +108,7 @@ NexusOS AI helps enterprise SaaS organizations detect risks earlier, identify op
 | [Product Roadmap](docs/roadmap.md) | Phased roadmap from prototype to enterprise scale |
 | [GTM Positioning](docs/gtm-positioning.md) | Target segment, ICP, and messaging |
 | [Demo Script](docs/demo-script.md) | Structured walkthrough for product demos |
-| [Interview Narrative](docs/interview-narrative.md) | Strategic narrative for product interviews |
+| [Product Narrative](docs/PRODUCT_NARRATIVE.md) | Product thesis, design decisions, and strategic thinking |
 
 ---
 
@@ -133,4 +133,16 @@ This project demonstrates:
 
 ---
 
-*Built as part of an AI Product Strategy portfolio. Intended to demonstrate Staff/Principal PM-level thinking on AI-native enterprise platforms.*
+---
+
+## What I Built
+
+| Artifact | Description |
+|---|---|
+| 16 product docs | Problem statement, vision, personas, agent workflows, architecture, memory layer, HITL design, governance, metrics, roadmap, GTM |
+| Deployed prototype | Lovable prototype at nexus-strategic-center.lovable.app |
+| Standard portfolio docs | PORTFOLIO_AUDIT, PRODUCT_THESIS, WHAT_I_BUILT, OUTCOME_MODEL, AI_PRODUCT_JUDGMENT |
+
+---
+
+*Independent product exploration. Uses synthetic examples, mock data, and public category-level assumptions.*
