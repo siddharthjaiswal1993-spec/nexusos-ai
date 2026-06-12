@@ -168,5 +168,5 @@ No. It gives them better context, surfaces the right priorities, and reduces man
 ## Related Documents
 
 - [Prototype Screens](prototype-screens.md)
-- [Interview Narrative](interview-narrative.md)
+- [Product Narrative](PRODUCT_NARRATIVE.md)
 - [GTM Positioning](gtm-positioning.md)
