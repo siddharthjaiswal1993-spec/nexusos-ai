@@ -1,6 +1,8 @@
 # NexusOS AI
 
-## AI-Native Operational Intelligence OS for Enterprise SaaS
+## Operational intelligence platform — shared reasoning across CRM, support, product, and finance signals
+
+**Status:** Concept + Prototype · Synthetic examples and mock data throughout
 
 **Prototype:** [https://nexus-strategic-center.lovable.app](https://nexus-strategic-center.lovable.app)
 
@@ -108,7 +110,7 @@ NexusOS AI helps enterprise SaaS organizations detect risks earlier, identify op
 | [Product Roadmap](docs/roadmap.md) | Phased roadmap from prototype to enterprise scale |
 | [GTM Positioning](docs/gtm-positioning.md) | Target segment, ICP, and messaging |
 | [Demo Script](docs/demo-script.md) | Structured walkthrough for product demos |
-| [Interview Narrative](docs/interview-narrative.md) | Strategic narrative for product interviews |
+| [Product Narrative](docs/PRODUCT_NARRATIVE.md) | Product thesis, design decisions, and strategic thinking |
 
 ---
 
@@ -133,4 +135,28 @@ This project demonstrates:
 
 ---
 
-*Built as part of an AI Product Strategy portfolio. Intended to demonstrate Staff/Principal PM-level thinking on AI-native enterprise platforms.*
+---
+
+## Build / Maintain / Improve / Kill
+
+**Build** — Real CRM/Slack/Gong/Zendesk signal ingestion and a persistent organisational memory layer that compounds across workflows. Without real data, the intelligence cannot improve over time.
+
+**Maintain** — The 12-agent taxonomy and the governance boundary (agent recommendations require human approval before any external action). These define the product's trust model and must not be softened for speed.
+
+**Improve** — Cross-signal correlation (a revenue risk signal that correlates with a support escalation is more urgent than either alone). The current prototype treats signals independently; a production system reasons across them.
+
+**Kill** — Any agent that covers more than one operational domain without domain-specific context. A generalised "business intelligence" agent produces low-confidence outputs across the board. Narrower, deeper agents produce outputs that domain experts will actually act on.
+
+---
+
+## What I Built
+
+| Artifact | Description |
+|---|---|
+| 16 product docs | Problem statement, vision, personas, agent workflows, architecture, memory layer, HITL design, governance, metrics, roadmap, GTM |
+| Deployed prototype | Lovable prototype at nexus-strategic-center.lovable.app |
+| Standard portfolio docs | PORTFOLIO_AUDIT, PRODUCT_THESIS, WHAT_I_BUILT, OUTCOME_MODEL, AI_PRODUCT_JUDGMENT |
+
+---
+
+*Independent product exploration. Uses synthetic examples, mock data, and public category-level assumptions.*
