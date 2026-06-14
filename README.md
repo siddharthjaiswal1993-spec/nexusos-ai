@@ -1,6 +1,8 @@
 # NexusOS AI
 
-## AI-Native Operational Intelligence OS for Enterprise SaaS
+## Operational intelligence platform — shared reasoning across CRM, support, product, and finance signals
+
+**Status:** Concept + Prototype · Synthetic examples and mock data throughout
 
 **Prototype:** [https://nexus-strategic-center.lovable.app](https://nexus-strategic-center.lovable.app)
 
@@ -132,6 +134,18 @@ This project demonstrates:
 - Workflow orchestration design
 
 ---
+
+---
+
+## Build / Maintain / Improve / Kill
+
+**Build** — Real CRM/Slack/Gong/Zendesk signal ingestion and a persistent organisational memory layer that compounds across workflows. Without real data, the intelligence cannot improve over time.
+
+**Maintain** — The 12-agent taxonomy and the governance boundary (agent recommendations require human approval before any external action). These define the product's trust model and must not be softened for speed.
+
+**Improve** — Cross-signal correlation (a revenue risk signal that correlates with a support escalation is more urgent than either alone). The current prototype treats signals independently; a production system reasons across them.
+
+**Kill** — Any agent that covers more than one operational domain without domain-specific context. A generalised "business intelligence" agent produces low-confidence outputs across the board. Narrower, deeper agents produce outputs that domain experts will actually act on.
 
 ---
 
