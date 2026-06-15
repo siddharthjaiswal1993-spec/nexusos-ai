@@ -120,23 +120,6 @@ NexusOS AI helps enterprise SaaS organizations detect risks earlier, identify op
 
 ---
 
-## Portfolio Purpose
-
-This project demonstrates:
-
-- AI product strategy
-- Agentic workflow design
-- Enterprise SaaS product thinking
-- B2B platform architecture
-- Product requirements writing
-- AI governance thinking
-- Executive-level product positioning
-- Workflow orchestration design
-
----
-
----
-
 ## Build / Maintain / Improve / Kill
 
 **Build** — Real CRM/Slack/Gong/Zendesk signal ingestion and a persistent organisational memory layer that compounds across workflows. Without real data, the intelligence cannot improve over time.
